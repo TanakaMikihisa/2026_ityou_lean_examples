@@ -1,0 +1,7 @@
+/.lake
+.cursor
+.agent
+.vscode
+.DS_Store
+*.md
+!README.md
