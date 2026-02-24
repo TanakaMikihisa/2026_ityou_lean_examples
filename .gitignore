@@ -1,7 +1,19 @@
-/.lake
+# agent
 .cursor
 .agent
+
+# lake
+/.lake
+
+# vscode
 .vscode
+
+# mac
 .DS_Store
+
+# markdown
 *.md
 !README.md
+
+# private
+private/

@@ -1,13 +1,5 @@
-# examples
+## プログラミングで定理を示す ― 定理証明支援言語入門
 
-## GitHub configuration
+このリポジトリは2026年度の大阪大学のいちょう祭で阪大作問サークルの部誌で掲載された「プログラミングで定理を示す ― 定理証明支援言語入門」のサンプルコードをまとめたものです。
 
-To set up your new GitHub repository, follow these steps:
-
-* Under your repository name, click **Settings**.
-* In the **Actions** section of the sidebar, click "General".
-* Check the box **Allow GitHub Actions to create and approve pull requests**.
-* Click the **Pages** section of the settings sidebar.
-* In the **Source** dropdown menu, select "GitHub Actions".
-
-After following the steps above, you can remove this section from the README file.
+## 内容
