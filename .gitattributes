@@ -1,3 +1,6 @@
+# すべての .lean ファイルを Lean として判定させる
 *.lean linguist-language=Lean
-Examples/* linguist-language=Lean
 
+# Examples フォルダ以下のすべてのファイルを統計の除外対象から外す
+Examples/** linguist-documentation=false
+Examples/** linguist-vendored=false
