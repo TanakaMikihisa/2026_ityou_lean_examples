@@ -1,0 +1,3 @@
+*.lean linguist-language=Lean
+Examples/* linguist-language=Lean
+
